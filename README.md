@@ -1,7 +1,4 @@
-# clarke_j_HW5
-This is the CSS styling homework for 1054, practicing using the CSS grid to style a website with content of my own choosing.
-
-# Custom Game Website
+# Gerry's Games Website
 The completed CSS Styling Homework 
 ## Installation
 No installation needed, just drag the html files into your preferred browser
