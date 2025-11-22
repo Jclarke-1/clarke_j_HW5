@@ -46,13 +46,58 @@
    margin-top: 50px;
    display: flex;
    justify-content: center;
-   background-color: #eee;
+   background-color: #fff;
+}
+
+#main-hero img {
+   border: solid 2px #333;
 }
 
 /* Products */
 
 #products {
-   margin-top: 50px;
+   margin-top: 40px;
    display: flex;
    justify-content: center;
+   padding: 0;
+   border: 0;
 }
+
+#product1 {
+   padding: 0;
+   margin: 0;
+   border: 0;
+}
+
+#product2 {
+   padding: 0;
+   margin: 0;
+   border: 0;
+}
+
+/* Portrait */
+
+#gerry-smith-portrait {
+   margin-top: 40px;
+   display: flex;
+   justify-content: center;
+   padding: 0;
+   border: 0;
+}
+
+#bio {
+   margin-top: 40px;
+   background-color: #333;
+   color: #fff;
+}
+
+#bio h3 {
+   font-size: 15px;
+}
+
+#bio p {
+   margin-top: 10px;
+   font-size: 10px;
+}
+
+/* Footer */
