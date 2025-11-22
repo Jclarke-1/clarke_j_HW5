@@ -31,13 +31,28 @@
 /* logo */
 
 #main-logo {
-   margin-top: 50px;
+   margin-top: 20px;
    padding: 0;
    margin-bottom: 50px;
-}
-
-#main-nav img {
    display: flex;
    justify-content:center;
-   padding: 0;
+}
+
+
+
+/* Main Hero Image */
+
+#main-hero {
+   margin-top: 50px;
+   display: flex;
+   justify-content: center;
+   background-color: #eee;
+}
+
+/* Products */
+
+#products {
+   margin-top: 50px;
+   display: flex;
+   justify-content: center;
 }
