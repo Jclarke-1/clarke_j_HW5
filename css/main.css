@@ -5,6 +5,14 @@
    border-radius: 10px;
 } 
 
+#main-header {
+background-color: #333;
+}
+
+#main-footer {
+   background-color: #cacaca;
+}
+
 /* Main Nav */
 
 #main-nav {
@@ -13,7 +21,6 @@
    padding: 10px;
    margin: 0;
    border: 0;
-   background-color: #333;
 }
 
 #main-nav ul {
@@ -28,11 +35,15 @@
    text-decoration: none;
 }
 
+#main-nav li a:hover {
+   color:rgb(228, 61, 39);
+}
+
 
 /* logo */
 
 #main-logo {
-   margin-top: 20px;
+   margin-top: 30px;
    padding: 0;
    margin-bottom: 50px;
    display: flex;
@@ -80,14 +91,17 @@
 
 #gerry-smith-portrait {
    margin-top: 40px;
+   margin-bottom: 30px;
    display: flex;
-   justify-content: center;
+   justify-content: left;
    padding: 0;
    border: 0;
 }
 
 #bio {
    margin-top: 40px;
+   margin-bottom: 30px;
+   margin-left: 30px;
    background-color: #333;
    color: #fff;
 }
@@ -107,10 +121,9 @@
    font-size: 15px;
    text-align: center;
    padding: 10px;
-   margin-top: 40px;
+   margin-top: 10px;
    margin-right: 0;
    margin-left: 0;
-   background-color: #cacaca;
 }
 
 #footer-nav ul {
@@ -123,4 +136,8 @@
 #footer-nav li a {
    color: black;
    text-decoration: none;
+}
+
+#footer-nav li a:hover {
+   color:rgb(228, 61, 39);
 }
